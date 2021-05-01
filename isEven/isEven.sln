@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "isEven", "isEven\isEven.vcxproj", "{2550EAFF-2146-45B7-AA80-FCFC0558F274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2550EAFF-2146-45B7-AA80-FCFC0558F274}.Debug|x64.ActiveCfg = Debug|x64
+		{2550EAFF-2146-45B7-AA80-FCFC0558F274}.Debug|x64.Build.0 = Debug|x64
+		{2550EAFF-2146-45B7-AA80-FCFC0558F274}.Debug|x86.ActiveCfg = Debug|Win32
+		{2550EAFF-2146-45B7-AA80-FCFC0558F274}.Debug|x86.Build.0 = Debug|Win32
+		{2550EAFF-2146-45B7-AA80-FCFC0558F274}.Release|x64.ActiveCfg = Release|x64
+		{2550EAFF-2146-45B7-AA80-FCFC0558F274}.Release|x64.Build.0 = Release|x64
+		{2550EAFF-2146-45B7-AA80-FCFC0558F274}.Release|x86.ActiveCfg = Release|Win32
+		{2550EAFF-2146-45B7-AA80-FCFC0558F274}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D812538F-F5FC-404E-ADC2-93427B005CB2}
+	EndGlobalSection
+EndGlobal
