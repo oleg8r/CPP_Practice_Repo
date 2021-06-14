@@ -1,0 +1,4 @@
+﻿  Random_File_Input_and_Output.cpp
+C:\Users\Oleg.Saveliev\source\repos\Random_File_Input_and_Output\Random_File_Input_and_Output\Random_File_Input_and_Output.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg.Saveliev\source\repos\Random_File_Input_and_Output\Random_File_Input_and_Output\Random_File_Input_and_Output.cpp(34,30): warning C4018: '<': signed/unsigned mismatch
+  Random_File_Input_and_Output.vcxproj -> C:\Users\Oleg.Saveliev\source\repos\Random_File_Input_and_Output\Debug\Random_File_Input_and_Output.exe
