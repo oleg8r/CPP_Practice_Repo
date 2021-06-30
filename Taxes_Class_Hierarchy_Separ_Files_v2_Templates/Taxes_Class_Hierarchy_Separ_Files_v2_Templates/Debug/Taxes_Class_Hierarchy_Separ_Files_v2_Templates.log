@@ -1,0 +1,3 @@
+﻿  Taxes_Class_Hierarchy_Separ_Files_v2_Templates.cpp
+C:\Users\Oleg.Saveliev\source\repos\Taxes_Class_Hierarchy_Separ_Files_v2_Templates\Taxes_Class_Hierarchy_Separ_Files_v2_Templates\CustomizedTax.h(36): warning C4715: 'CustomizedTax<float>::taxCalc': not all control paths return a value
+  Taxes_Class_Hierarchy_Separ_Files_v2_Templates.vcxproj -> C:\Users\Oleg.Saveliev\source\repos\Taxes_Class_Hierarchy_Separ_Files_v2_Templates\Debug\Taxes_Class_Hierarchy_Separ_Files_v2_Templates.exe
