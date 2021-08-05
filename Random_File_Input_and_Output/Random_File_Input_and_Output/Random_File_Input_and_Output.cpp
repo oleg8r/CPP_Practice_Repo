@@ -25,7 +25,7 @@ int main()
         vectVar.push_back(strVar);
     }
 
-    ofstream out("Info.txt");   //Re-writing the file
+    ofstream out("Info.txt");   //Re-writes the file
 
     for (int i = 0; i < vectVar.size() -1; i++) 
     {
