@@ -15,7 +15,7 @@ int main()
     vector<string> vectVar;
     string strVar;
 
-    ifstream inf("Info.txt");   //Creating a flow object for reading
+    ifstream inf("Info.txt");   // Creats a flow object for reading
     if (!inf)
         cout << "The file couldn't be opened for reading." << std::endl;
 
