@@ -36,7 +36,7 @@ int main()
         cout << "Enter 1 for Region 1 or 2 for Region 2: " << endl;
         cin >> regionChoice;
 
-        CustomizedTax<float> taxObj(regionChoice);  //Assigns datatype to CustomizedTax class, incl. taxCalc() for tax calculation based on the region
+        CustomizedTax<float> taxObj(regionChoice);  //Assigns datatype to CustomizedTax class, incl. taxCalc() for tax calculation based on the region,
 
         cout << "Enter your amount: " << endl;
         cin >> amountV;
