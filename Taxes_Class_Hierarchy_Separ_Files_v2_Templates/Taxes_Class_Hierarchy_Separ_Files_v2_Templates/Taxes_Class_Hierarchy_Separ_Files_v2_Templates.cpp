@@ -47,7 +47,7 @@ int main()
             continueV = false;
     };
 
-    //Task 7 (optional): Convert your application as templated application
+    //Task 7 (optional): Convert your application as templated application.
     return 0;
 }
 
