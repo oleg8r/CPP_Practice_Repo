@@ -27,7 +27,7 @@ int main()
     //Task 6, create the object of CustomizedTax class to test your program, Add menu inside loop to ask for options.
 
     int regionChoice;
-    float amountV;  //New datatype for tax calculation based on the region
+    float amountV;  //New datatype for tax calculation based on the region.
     bool continueV = true;
     char answerV;
 
