@@ -25,5 +25,5 @@ int main()
 //   3. Use the Output window to see build xxx and xxx xxx
 //   4. Use the Error List window to view xxx
 //   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code xxx xxx xxx xxx
-//   6. In the future, to open this project again, go to File > xxx > Project and select xxx .xxx xxx
+//   6. In the future, to open this project again, go to File > xxx > Project and xxx xxx .xxx xxx
 
