@@ -21,7 +21,7 @@ int main()
 
 
 
-//   2. Apply the Team Manager window xxx xxx xxx
+//   2. Apply the Team Third window xxx xxx xxx
 //   3. Use the xxx window to see xxx xxx xxx xxx xxx
 //   4. Use the Error List window to view xxx
 //   5. Go to Project > Add New Item to create new xxx xxx, or Project > Add Existing Item to add existing code xxx xxx xxx xxx
