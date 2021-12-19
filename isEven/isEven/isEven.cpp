@@ -24,6 +24,6 @@ int main()
 //   2. First step: Apply the Team's window and open the menu
 //   3. Use the first window to see a various options for adjusting the interface and menu 
 //   4. Use the Error List window to view xxx
-//   5. Go to Project > Add New Item to create new files and folders, or Project > Add Existing Item to add existing code to the program a xxx 25
+//   5. Go to Project > Add New Item to create new files and folders, or Project > Add Existing Item to add existing code to the program a row of 25
 //   6. Last step is to xxx xxx xxx xxx, xxx xxx xxx > xxx > xxx xxx xxx xxx .xxx xxx
 
