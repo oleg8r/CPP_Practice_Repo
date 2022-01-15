@@ -25,5 +25,5 @@ int main()
 //   3. Use the first window to see a various options for adjusting the interface and menu 
 //   4. Use the Error List window to view the whole list of actions
 //   5. Go to Project > Add New Item to create new files and folders, or Project > Add Existing Item to add existing code to the program a row of 25
-//   6. Last step is to deploy the program on this system, which is set up accordingly. Please follow the instructions > then go to the last step
+//   6. Last step is to deploy the program on this system, which is set up accordingly. Please follow the instructions > no actions required
 
