@@ -20,7 +20,7 @@ int main()
 };
 
 
-
+//  1. First
 //   2. First step: Apply the Team's window and open the menu
 //   3. Use the first window to see a various options for adjusting the interface and menu 
 //   4. Use the Error List window to view the whole list of actions
