@@ -19,6 +19,7 @@ int main()
     return 0;
 };
 
+//STEPS
 //Instructions - Step by Step
 //   1. First step: Apply the Team's policy and open the application menu
 //   2. First step: Apply the Team's window and open the menu
