@@ -1,5 +1,5 @@
 // isEven.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Checks if the value is even
 
 #include <iostream>
 
