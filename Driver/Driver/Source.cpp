@@ -5,11 +5,11 @@ using namespace std;
 //"Driver" structure
 struct Driver
 {
-	string lastName; //driver's last name field
-	char carCategory = 0; //car category field
-	//char carCategory{ 0 }; //car category field
-	int drivingXP = 0;	//driver's experience field
-	//char drivingXP{ 0 }; //car category field
+	string lastName;		//driver's last name field
+	char carCategory = 0;		//car category field
+	//char carCategory{ 0 };	//car category field
+	int drivingXP = 0;		//driver's experience field
+	//char drivingXP{ 0 };		//car category field
 };
 
 // Main function
