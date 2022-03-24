@@ -61,4 +61,4 @@ int main()
 	return 0;
 }
 
-// End of the eprogram
+// End of the program
