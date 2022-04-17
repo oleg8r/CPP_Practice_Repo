@@ -56,7 +56,7 @@ int main()
 	cout << list[driverNum].drivingXP << endl;
 	cout << endl;
 
-	// realeases the memory allocated for dynamic array
+	// Realeases the memory allocated for dynamic array
 	delete[]list;
 	return 0;
 }
