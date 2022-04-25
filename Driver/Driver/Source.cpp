@@ -16,7 +16,7 @@ struct Driver
 // Main function
 int main()
 {
-	// set language in console
+	// Sets language in console
 	setlocale(LC_ALL, "English");
 	int n;
 	cout << "Enter ## of drivers" << endl;
