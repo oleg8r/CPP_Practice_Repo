@@ -47,7 +47,7 @@ int main()
 		}
 	}
 
-	// Displaysы the drivers with the least experience
+	// Displays the drivers with the least experience
 	cout << endl;
 	cout << "The driver with the least experience: " << endl;
 	cout << "________________________________________________" << endl;
