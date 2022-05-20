@@ -1,4 +1,4 @@
-// This program manages information about drivers
+// This program is to work with information about drivers
 
 #include <iostream>
 using namespace std;
