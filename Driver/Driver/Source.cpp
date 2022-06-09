@@ -26,7 +26,7 @@ int main()
 	// Fills out the array of structures of "Driver" type
 	for (int i = 0; i < n; i++)
 	{
-		cout << "Enter the last name of driver #: " << i + 1 << endl;
+		cout << "Enter the last name of the driver #: " << i + 1 << endl;
 		cin >> list[i].lastName;
 		cout << "Enter the car category: " << endl;
 		cin >> list[i].carCategory;
