@@ -37,7 +37,7 @@ int main()
 
 	// int i= 0;
 	int leastXP= list[0].drivingXP;
-	int driverNum = 0;
+	int driverNum= 0;
 	for (int i= 0; i < n; i++)
 	{
 		if (list[i].drivingXP < leastXP)
