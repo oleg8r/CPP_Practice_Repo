@@ -42,7 +42,7 @@ int main()
 	{
 		if (list[i].drivingXP < leastXP)
 		{
-			leastXP = list[i].drivingXP;
+			leastXP= list[i].drivingXP;
 			driverNum = i;
 		}
 	}
