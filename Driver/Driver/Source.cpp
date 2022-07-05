@@ -24,7 +24,7 @@ int main()
 
 	Driver* list= new Driver[n]; //creates a dynamic array for "the list of drivers" for n cars
 	// Fills out the array of structures of "Driver" type
-	for (int i = 0; i < n; i++)
+	for (int i= 0; i < n; i++)
 	{
 		cout << "Enter the last name of the driver #: " << i + 1 << endl;
 		cin >> list[i].lastName;
