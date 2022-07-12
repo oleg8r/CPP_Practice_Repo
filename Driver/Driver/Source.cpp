@@ -19,7 +19,7 @@ int main()
 	// Sets language in console
 	setlocale(LC_ALL, "English");
 	int n;
-	cout << "Enter ## of drivers" << endl;
+	cout << "Enter # of drivers" << endl;
 	cin >> n;
 
 	Driver* list= new Driver[n]; //creates a dynamic array for "the list of drivers" for n cars
