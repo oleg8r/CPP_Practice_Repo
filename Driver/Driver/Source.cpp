@@ -9,6 +9,7 @@ struct Driver
 	string lastName;		// Driver's last name field
 	char carCategory= 0;		// Car category field
 	//char carCategory{ 0 };	// Car category field
+	
 	int drivingXP= 0;		// Driver's experience field
 	//char drivingXP{ 0 };		// Car category field
 };
