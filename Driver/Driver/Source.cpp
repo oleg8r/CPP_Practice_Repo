@@ -14,7 +14,7 @@ struct Driver
 	//char drivingXP{ 0 };		// Car category field
 };
 
-// Main function --
+// Main function ---
 int main()
 {
 	// Sets the language in a console
