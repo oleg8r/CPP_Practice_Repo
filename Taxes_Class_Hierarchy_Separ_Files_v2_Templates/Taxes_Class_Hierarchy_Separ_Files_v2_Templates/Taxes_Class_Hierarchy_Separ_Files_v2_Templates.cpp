@@ -3,7 +3,7 @@
 | File Name: Taxes_Class_Hierarchy_Separ_Files_v2_Templates.cpp
 | Purpose: To calculate taxes (Version with Class Tamplates).
 | Documentation: A templated Tax calculation program. There are 
-|   three classes: Tax, UpdatedTax and CustomizedTax. There are 
+|   three classes: 1) Tax, UpdatedTax and CustomizedTax. There are 
 |   header files (.h) for each class containing class declaration 
 |   and definition. There is one (.cpp) file for main function 
 |   to test the program. This program version implements Tamplates.
