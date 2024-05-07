@@ -6,7 +6,7 @@
 |   three classes: 1) Tax, 2) UpdatedTax and 2) CustomizedTax. There are 
 |   header files (.h) for each class containing class declaration 
 |   and definition. There is one (.cpp) file for main function 
-|   to test the program. This program version implements Tamplates.
+|   to test the program. This program version implements Templates.
 |
 | 
 | Revision History:
