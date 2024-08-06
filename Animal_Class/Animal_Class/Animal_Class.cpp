@@ -1,4 +1,4 @@
-// Animal_Class.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Animal_Class.cpp : This file contains the 'main' function. Program execution begins and ends here
 //
 
 #include <iostream>
