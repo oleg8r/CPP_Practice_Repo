@@ -6,9 +6,9 @@ using namespace std;
 // "Driver" structure
 struct Driver
 {
-	string lastName;		// Driver's last name field
-	char carCategory= 0;		// Car category field
-	//char carCategory{ 0 };	// Car category field
+	string lastName;		// Field for Driver's last name 
+	char carCategory= 0;		// Field for Car category
+	//char carCategory{ 0 };	// Field for Car category
 	
 	int drivingXP= 0;		// Driver's experience field
 	// char drivingXP{ 0 };		// Car category field
