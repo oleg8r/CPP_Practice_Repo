@@ -10,8 +10,8 @@ struct Driver
 	char carCategory= 0;		// Field for Car category
 	//char carCategory{ 0 };	// Field for Car category
 	
-	int drivingXP= 0;		// Driver's experience field
-	// char drivingXP{ 0 };		// Car category field
+	int drivingXP= 0;		// Field for Driver's experience
+	// char drivingXP{ 0 };		// Field for Car category
 };
 
 //Main function
