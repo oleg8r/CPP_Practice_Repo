@@ -6,7 +6,7 @@ using namespace std;
 // "Driver" structure
 struct Driver
 {
-	string lastName;		// Field for Driver's last name 
+	string lastName;		// Field for Driver's Last name 
 	char carCategory= 0;		// Field for Car category
 	//char carCategory{ 0 };	// Field for Car category
 	
